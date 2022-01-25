@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00a1f3cb.css",
+    "main.js": "/static/js/main.afccf1ac.js",
+    "static/js/787.c20870d0.chunk.js": "/static/js/787.c20870d0.chunk.js",
+    "static/media/Sashimi.png": "/static/media/Sashimi.ef5a8f4ae97cd62faa62.png",
+    "static/media/Baiza_sushi.png": "/static/media/Baiza_sushi.5c02abfc370ed564bab3.png",
+    "static/media/Hosomaki.png": "/static/media/Hosomaki.11730d49ccb3ab3cf48b.png",
+    "static/media/Temarizushi2.png": "/static/media/Temarizushi2.d02d31c37ecd97c10388.png",
+    "static/media/Donut_sushi.png": "/static/media/Donut_sushi.f6d675c96c44704f219f.png",
+    "static/media/Temarizushi.png": "/static/media/Temarizushi.9d21a691c6cb42adbee3.png",
+    "static/media/Uramaki.png": "/static/media/Uramaki.b0eaca1949940ec23134.png",
+    "index.html": "/index.html",
+    "main.00a1f3cb.css.map": "/static/css/main.00a1f3cb.css.map",
+    "main.afccf1ac.js.map": "/static/js/main.afccf1ac.js.map",
+    "787.c20870d0.chunk.js.map": "/static/js/787.c20870d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a1f3cb.css",
+    "static/js/main.afccf1ac.js"
+  ]
+}
