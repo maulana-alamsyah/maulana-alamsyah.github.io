@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b906b552.css",
-    "main.js": "/static/js/main.40a4c337.js",
+    "main.js": "/static/js/main.c302809d.js",
     "static/js/787.c20870d0.chunk.js": "/static/js/787.c20870d0.chunk.js",
     "static/media/Baiza_sushi.png": "/static/media/Baiza_sushi.5c02abfc370ed564bab3.png",
     "static/media/header.png": "/static/media/header.cf379c1f9c2a946719f6.png",
@@ -9,11 +9,11 @@
     "static/media/Matcha.png": "/static/media/Matcha.718a4600f7c4d056cd14.png",
     "index.html": "/index.html",
     "main.b906b552.css.map": "/static/css/main.b906b552.css.map",
-    "main.40a4c337.js.map": "/static/js/main.40a4c337.js.map",
+    "main.c302809d.js.map": "/static/js/main.c302809d.js.map",
     "787.c20870d0.chunk.js.map": "/static/js/787.c20870d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b906b552.css",
-    "static/js/main.40a4c337.js"
+    "static/js/main.c302809d.js"
   ]
 }
